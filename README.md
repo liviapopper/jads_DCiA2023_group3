@@ -1,4 +1,4 @@
-# Data Consultancy in Action - Group 3 project
+# Data Consultancy in Action - Group 3 Project
 
 ### In collaboration with JoinSeven
 
