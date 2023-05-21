@@ -10,7 +10,7 @@ Authors:
 * Livia Popper
 * Niels Gaastra
 
-You can see our pipeline in this picture : Pipeline_flow.jpeg
+You can see our pipeline in this picture: [Pipeline_flow.jpeg](https://github.com/liviapopper/jads_DCiA2023_group3/blob/pipeline/Pipeline_flow.jpeg)
 
 Scripts order:
 
