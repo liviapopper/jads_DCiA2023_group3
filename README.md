@@ -10,7 +10,7 @@ Authors:
 * Livia Popper
 * Niels Gaastra
 
-
+You can see our pipeline in this picture : Pipeline_flow.jpeg
 
 Scripts order:
 
