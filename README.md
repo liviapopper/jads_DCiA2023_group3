@@ -42,9 +42,8 @@ You can see our pipeline in this picture: [Pipeline_flow.jpeg](https://github.co
      - BERTopic model: model_nneighbors15_ncomponents5_cluster_size120_unigram
      - "newDF_nneighbors15_ncomponents5_cluster_size120_unigram.csv"
 
-5. [bipartite_data_powerbi.py](https://github.com/liviapopper/jads_DCiA2023/blob/pipeline/bipartite_data_powerbi.py)
-
-This module contains functions for preparing the output data of the topic modelling notebook for our bipartite visualization in the PowerBI dashboard.
+5. [bipartite_data_powerbi.py](https://github.com/liviapopper/jads_DCiA2023_group3/blob/pipeline/bipartite_data_powerbi.py)
+   - This module contains functions for preparing the output data of the topic modelling notebook for our bipartite visualization in the PowerBI dashboard.
    **Input**: "newDF_nneighbors15_ncomponents5_cluster_size120_unigram.csv"
    - **Outputs**:
      - "bipart_actors_per_par.csv"
