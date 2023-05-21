@@ -9,5 +9,3 @@ Authors:
 * Kyriakos Koukiadakis
 * Livia Popper
 * Niels Gaastra
-
-pipeline
