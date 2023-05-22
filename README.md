@@ -20,7 +20,7 @@ You can see our pipeline in this picture:
    - **Input**: "data.json"
    - **Output**: "documents_split_into_paragraphs.csv"
 
-2. [actror_mapping_to_paragraphs.py](https://github.com/liviapopper/jads_DCiA2023_group3/blob/pipeline/actror_mapping_to_paragraphs.py)
+2. [actor_mapping_to_paragraphs.py](https://github.com/liviapopper/jads_DCiA2023_group3/blob/pipeline/actor_mapping_to_paragraphs.py)
    - For this module, we used the NER tags provided by Spacy's implementation by JoinSeven to map the actors and organizations in each paragraph. We also used the Abbreviations list provided by JoinSeven to map discrete actors that had been mentioned with slightly different names.
    - **Inputs**:
      - "org_abbreviations.json"
