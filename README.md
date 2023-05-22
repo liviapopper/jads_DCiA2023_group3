@@ -11,7 +11,7 @@ Authors:
 - Niels Gaastra
 
 You can see our pipeline in this picture:
-![Pipeline_flow](https://github.com/liviapopper/jads_DCiA2023_group3/blob/pipeline/Pipeline_flow.jpeg)
+![Pipeline_flow](https://github.com/liviapopper/jads_DCiA2023_group3/blob/pipeline/Pipeline_flow.jpg)
 
 ### Scripts order:
 
