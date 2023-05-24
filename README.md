@@ -50,4 +50,13 @@ You can see our pipeline in this picture:
      - "bipart_actors_per_par.csv"
      - "bipart_organizations_per_par.csv"
 
+6. [bipartite_network_projection.py](https://github.com/liviapopper/jads_DCiA2023_group3/blob/pipeline/bipartite_network_projection.py)
+   - This module contains functions for preparing the output data of the topic modelling notebook for our projection of the bipartite network visualization in the PowerBI dashboard.
+   - **Inputs**:
+     - "bipart_actors_per_par.csv"
+     - "bipart_organizations_per_par.csv"
+   - **Outputs**:
+     - "projection_actors_per_par.csv"
+     - "projection_organizations_per_par.csv"
+
 Side note: The whole pipeline took us approximately six and a half hours to run on our setting, namely a laptop with a CPU i7-11800H and a GPU RTX 3050 Ti. If you want to drastically improve the running time, you might consider using a lighter version of Spacy's lemmatizer, such as "nl_core_news_sm", for both [paragraph_splitting.py](https://github.com/liviapopper/jads_DCiA2023_group3/blob/pipeline/paragraph_splitting.py), and  [Bertopic_modelling.ipynb](https://github.com/liviapopper/jads_DCiA2023_group3/blob/pipeline/Bertopic_modelling.ipynb). Furthermore, you might consider using an even lighter version of the pre-trained sentence transformer model "all-MiniLM-L6-v2" for [Bertopic_modelling.ipynb](https://github.com/liviapopper/jads_DCiA2023_group3/blob/pipeline/Bertopic_modelling.ipynb), such as "paraphrase-albert-small-v2", which is available at https://www.sbert.net/docs/pretrained_models.html?highlight=sentencetransformer%20korea. However, these tweaks, are going to change, and probably deteriorate the performance of the Topic Models.
