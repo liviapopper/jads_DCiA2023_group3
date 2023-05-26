@@ -15,6 +15,8 @@ You can see our pipeline in this picture:
 
 Here you can find the [PowerBI dashboard.](https://github.com/liviapopper/jads_DCiA2023_group3/blob/pipeline/Dashboard_v1.pbix)
 
+Here is a [link](https://drive.google.com/drive/folders/1hw9z4UC59C6jyRofIvjHIGRg_hWDHNIf?usp=sharing) to a Google Drive folder where we have stored three models and the input data needed for the pipeline.
+
 ### Scripts order:
 
 1. [paragraph_splitting.py](https://github.com/liviapopper/jads_DCiA2023_group3/blob/pipeline/paragraph_splitting.py)
