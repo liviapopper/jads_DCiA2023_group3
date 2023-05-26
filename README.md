@@ -13,6 +13,8 @@ Authors:
 You can see our pipeline in this picture:
 ![Pipeline_flow](https://github.com/liviapopper/jads_DCiA2023_group3/blob/pipeline/Pipeline_flow.jpg)
 
+Here you can find the [dashboard.](https://github.com/liviapopper/jads_DCiA2023_group3/blob/pipeline/Dashboard_v1.pbix)
+
 ### Scripts order:
 
 1. [paragraph_splitting.py](https://github.com/liviapopper/jads_DCiA2023_group3/blob/pipeline/paragraph_splitting.py)
