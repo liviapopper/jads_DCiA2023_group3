@@ -3,17 +3,17 @@
 ### In collaboration with JoinSeven
 
 Authors:
-- Diana Spahieva
-- Ege Özol
-- Jannes Hollander
-- Kyriakos Koukiadakis
-- Livia Popper
-- Niels Gaastra
+- Diana Spahieva (developer)
+- Ege Özol (product owner)
+- Jannes Hollander (developer)
+- Kyriakos Koukiadakis (developer)
+- Livia Popper (Scrum master & developer)
+- Niels Gaastra (developer)
 
 You can see our pipeline in this picture:
 ![Pipeline_flow](https://github.com/liviapopper/jads_DCiA2023_group3/blob/main/Pipeline_flow.jpg)
 
-Here you can find the [PowerBI dashboard.](https://github.com/liviapopper/jads_DCiA2023_group3/blob/main/Network&#32;visualisation&#32;dashboard&#32;JoinSeven&#32;-&#32;v1.0.pbix)
+Here you can find the [Power BI dashboard](https://github.com/liviapopper/jads_DCiA2023_group3/blob/main/Network&#32;visualisation&#32;dashboard&#32;JoinSeven&#32;-&#32;v1.0.pbix).
 
 Here is a [link](https://drive.google.com/drive/folders/1hw9z4UC59C6jyRofIvjHIGRg_hWDHNIf?usp=sharing) to a Google Drive folder where we have stored three models and the input data needed for the pipeline.
 
